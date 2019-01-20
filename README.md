@@ -1,7 +1,7 @@
 #python3 - python3 new 20/1/2013
 
 
--    ( ส่วนหัวนะครับแก้ให้ตรง)
+- ( ส่วนหัวนะครับแก้ให้ตรง)
 - LINEPY/config.py 
 - ("default UA : IOS\t10.14.1\tiPhone OS\t10.14.1")
 - ( UA = "Line/8.19.2 iPad4,1 8.19.2")
