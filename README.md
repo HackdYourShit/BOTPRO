@@ -43,7 +43,7 @@ NEW 13/12/2018
 - pip3 install wikipedia
 - pip3 install youtube_dl
 - pip3 install antolib
-- git clone https://github.com/Cupzaa/Bot.git
+- git clone https://github.com/Cupzaa/YIMBOT.git
 - cd Bot
 - python3 k.py
 -----------------------------------------------------
@@ -52,6 +52,6 @@ NEW 13/12/2018
 
 -------------------------------------------------------
 
-Add Line =  http://line.me/R/ti/p/~yim_cjs
+Add Line =  line.me/R/ti/p/~yim_cjs
 
 -------------------------------------------------------
