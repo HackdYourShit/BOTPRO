@@ -71,7 +71,7 @@ pip3 install youtube_dl
 
 pip3 install antolib
 
-git clone https://github.com/Cupzaa/YIMBOT.git
+https://github.com/Cupzaa/BOTPRO.git
 
 cd YIMBOT
 
