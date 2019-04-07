@@ -1,6 +1,8 @@
 #python3 - python3 new 20/1/2013 
 -default UA : IOS\t10.15.1\tiPhone OS\t10.15.1
+
 -UA = "Line/9.4.7 iPad4,1 9.4.7
+
 -CHROMEOS\t5.15.1\tCHROMEOS\t10.15.1
 
 ============================================================
